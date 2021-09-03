@@ -1,15 +1,18 @@
 # Solving-System-Linear-EQs
-##### I developed these algorithms to solve linear equations using two methods: 1. gauss-seidel 2. Jacobi
+##### I developed these algorithms to find approximate the value of the root(s) of a function: 1. Bisection 2. False-Position 3. Secant 4. Modified-Secant 5. Newton
+
 This was done for CS 3010 Numerical Methods
 ---
 ### Description:
-###### Gauss-Seidel method: This is an itterative method used to solve a system of linear equations
-###### Jacobi method: This is also an itterative method used to solve a system of linear equations. 
+###### All of these methods are used to approximate the value of a root of a function, These are all itterative methods that can converge to a specific root or diverge if the inital value is not chosen correctly. There is an accompanying write up doc for more explanation.
 ---
 ### Specifications:
 ###### These methods are very similar to each other with minor difference. 
 ###### Both methods will run 50 times maximum.
-###### There are 3 equations total and they are hard coded.
+###### There are 2 functions to solve.
+---
+### Functions:
+
 ---
 ### How:
 #### There are couple of checks that need to be done before we begin:
