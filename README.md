@@ -12,8 +12,12 @@ This was done for CS 3010 Numerical Methods
 ###### There are 2 functions to solve.
 ---
 ### Functions:
-
+#### Function 1: 
+###### f(X) = 2X<sup>3</sup> – 11.7X<sup>2</sup> + 17.7x – 5
 ![alt text](https://github.com/Arsham1024/Numerical_Methods/blob/master/F1.png?raw=true)
+
+#### Function 2: 
+###### f(X) = X + 10 – Xcosh(50/X)
 ![alt text](https://github.com/Arsham1024/Numerical_Methods/blob/master/F2.png?raw=true)
 ---
 ### How:
