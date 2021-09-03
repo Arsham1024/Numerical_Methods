@@ -1,4 +1,4 @@
-# Solving-System-Linear-EQs
+# Numerical Methods
 ##### I developed these algorithms to find approximate the value of the root(s) of a function: 1. Bisection 2. False-Position 3. Secant 4. Modified-Secant 5. Newton
 
 This was done for CS 3010 Numerical Methods
